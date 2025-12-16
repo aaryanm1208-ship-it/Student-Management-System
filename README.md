@@ -1,2 +1,29 @@
 # Student-Management-System
-Student Management System is a simple web-based application built using HTML, CSS, and JavaScript that allows users to add, view, and delete student records through an interactive and user-friendly interface.
+
+A simple Student Management System built using HTML, CSS, and JavaScript.
+
+## Features
+- Add student details
+- Display student records
+- Delete student records
+- Clean UI
+- Beginner friendly project
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+## Future Enhancements
+- Edit student details
+- Search functionality
+- Database integration
+- Login system
+
+## Author
+Aaryan Mudvikar
+
