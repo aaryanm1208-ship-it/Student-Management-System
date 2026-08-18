@@ -27,3 +27,5 @@ A simple Student Management System built using HTML, CSS, and JavaScript.
 ## Author
 Aaryan Mudvikar
 
+## Updates
+- Improved documentation.
