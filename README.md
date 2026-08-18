@@ -29,3 +29,5 @@ Aaryan Mudvikar
 
 ## Updates
 - Improved documentation.
+
+- Added project badges.
